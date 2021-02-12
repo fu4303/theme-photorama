@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://doc22940.github.io"
+url: "https://fu4303.github.io"
 baseurl: "/theme-photorama"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://doc22940.github.io/theme-photorama/gallery/"  
-  - JOURNAL: "https://doc22940.github.io/theme-photorama/journal/"
-  - ABOUT: "https://doc22940.github.io/theme-photorama/about/"
+  - GALLERY: "https://fu4303.github.io/theme-photorama/gallery/"  
+  - JOURNAL: "https://fu4303.github.io/theme-photorama/journal/"
+  - ABOUT: "https://fu4303.github.io/theme-photorama/about/"
 
 # All translation keys
 translations:
