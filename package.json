@@ -17,6 +17,6 @@
   },
   "homepage": "http://sunbliss.github.io",
   "dependencies": {
-    "searchkit": "^0.7.0"
+    "searchkit": "^2.4.4"
   }
 }
